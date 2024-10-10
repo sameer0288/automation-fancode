@@ -86,8 +86,7 @@ The API fetches data from JSONPlaceholder, processes the users' todo completion 
 }
 
 
-
----
+```
 
 ### Key Features:
 1. **Backend**:
